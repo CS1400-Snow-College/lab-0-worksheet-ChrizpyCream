@@ -1,5 +1,5 @@
 After reading README.md complete this worksheet by editing this file and marking each correct answer with a * (The first one has been done for you). After you are done, save the file, commit your changes with git commit -am "I did the worksheet", and then push your changes with git push to submit your work.
-
+ 
 1) What does a diamond mean in a flowchart? *a) a decision point b) a step in a process c) it indicates what should happen afterward in the process
 
 2) What does an arrow mean in a flowchart? a) a decision point b) a step in a process *c) it indicates what should happen next in the process
